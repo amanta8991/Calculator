@@ -1,0 +1,57 @@
+body{
+  background-image: url(./images/Untitled\ design-3.png);
+  background-size: cover;
+}
+
+input{
+  border: none;
+  background: transparent;
+  outline: none;
+  text-align:right;
+  font-size:60px;
+  color: azure;
+}
+
+.form-control {
+  border: 0;
+}
+
+.btn{
+  width: 55px;
+  height: 55px;
+  box-shadow: 0 0 5px 5px rgb(41, 37, 31)
+}
+
+.box{
+  background-color: rgb(44, 44, 44);
+  margin-top: 100px;
+  width: 350px;
+}
+
+.orange{
+  background-color: rgb(255, 119, 0);
+  color: azure;
+}
+
+.orange:hover{
+  background-color: rgb(255, 140, 0);
+  color: azure;
+}
+
+.ash{
+  background-color: rgb(137, 137, 137);
+}
+
+.ash:hover{
+  background-color: rgb(125, 123, 123);
+}
+
+.blk{
+  background-color: rgb(27, 25, 25);
+  color: azure;
+}
+
+.blk:hover{
+  background-color: rgba(37, 35, 35, 0.946);
+  color: azure;
+}
